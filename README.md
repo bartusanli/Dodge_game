@@ -5,6 +5,12 @@ A Physics-Based Survival Challenge in Unity.
 ## Project Overview
 This project is a 3D survival game developed to master the core fundamentals of Unity Engine and C# Scripting. It focuses on real-time object interaction, physics-based movement, and dynamic environment triggers.
 
+<img width="1918" height="787" alt="Ekran görüntüsü 2026-05-19 172451" src="https://github.com/user-attachments/assets/854a17da-24b5-44dc-8b56-c371cd5fe711" />
+
+
+<img width="1192" height="937" alt="Ekran görüntüsü 2026-05-19 171242" src="https://github.com/user-attachments/assets/bb9481fe-605e-4e29-bc50-1fd167636ac6" />
+
+
 ## Core Mechanics
 
 * Dynamic Interaction: The player (controlled cube) changes the color of any static object to red upon collision.
